@@ -4,10 +4,6 @@
 
 GitHub Stats
 
-<a href="https://github.com/abhishek2244/abhishek2244">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek2244&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/abhishek2244/abhishek2244">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek2244&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhishek's GitHub Stats" />
-</a>
-
+![abhishek2244's Stats](https://github-readme-stats.vercel.app/api?username=abhishek2244&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![abhishek2244's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek2244&theme=vue-dark&hide_border=true)
+![abhishek2244's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek2244&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
