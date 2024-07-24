@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek2244&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek2244&theme=vue) </br>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=abhishek2244&theme=vue&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=abhishek2244&theme=vue&no-frame=true&no-bg=false&margin-w=4&rank=AA,SSS,S,B,A,SECRET)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=vue)
